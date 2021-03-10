@@ -4,13 +4,13 @@
 }
 
 #titulo{
-    font-family: monospace;
+    font-family: Cursive;
     color: #380B61;
     margin-left: 7%;
 }
 
 #subtitulo{
-    font-family: monospace;
+    font-family: Cursive;
     color: #380B61;
     margin-left: 10%;
 }
@@ -21,7 +21,7 @@ fieldset{
 
 body{
     background-color: #F0F8FF;
-    font-family: monospace;
+    font-family: Cursive;
     font-size: 1em;
     color: #59429d;
     margin-left: 36%;
